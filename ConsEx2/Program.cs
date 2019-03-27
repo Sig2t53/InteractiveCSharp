@@ -19,7 +19,15 @@ namespace ConsEx2
         static void Main(string[] args)
         {
             Console.WriteLine("***コンストラクタを使った実験***");
-            ConsEx2 ob2 = new ConsEx2();
+            ConsEx2 ob2 = new ConsEx2(25);
+            if(ob2 == null)
+            {
+                Console.WriteLine("ob2 はnull");
+            }
+            else
+            {
+                Console.WriteLine("ob2はnullではない");
+            }
         }
     }
 }
