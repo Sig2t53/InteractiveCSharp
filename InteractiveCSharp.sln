@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassEx4", "ClassEx4\ClassE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanceMethodDemo", "InstanceMethodDemo\InstanceMethodDemo.csproj", "{AB952D0A-0D38-4D48-BA22-F3BF76E6881C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectInitializerEx1", "ObjectInitializerEx1\ObjectInitializerEx1.csproj", "{61C7A7A7-EDAF-4D27-8D01-680D618A256B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AB952D0A-0D38-4D48-BA22-F3BF76E6881C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB952D0A-0D38-4D48-BA22-F3BF76E6881C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB952D0A-0D38-4D48-BA22-F3BF76E6881C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C7A7A7-EDAF-4D27-8D01-680D618A256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C7A7A7-EDAF-4D27-8D01-680D618A256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C7A7A7-EDAF-4D27-8D01-680D618A256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C7A7A7-EDAF-4D27-8D01-680D618A256B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
