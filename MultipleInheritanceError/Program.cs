@@ -30,13 +30,13 @@ namespace MultipleInheritanceError
         }
     }
 
-    class GrandChild : Child1,Child2 //菱形継承問題によってエラーとなる
-    {
-        public void Show()
-        {
-            Console.WriteLine("私はGrandChildクラスにいます");
-        }
-    }
+    //class GrandChild : Child1,Child2 //菱形継承問題によってエラーとなる
+    //{
+    //    public void Show()
+    //    {
+    //        Console.WriteLine("私はGrandChildクラスにいます");
+    //    }
+    //}
 
     class Program
     {
