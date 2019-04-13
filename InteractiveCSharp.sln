@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceEx1", "Inheritan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceWithPrivateMemberTest", "InheritanceWithPrivateMemberTest\InheritanceWithPrivateMemberTest.csproj", "{A30A5A8F-CD04-4E7A-85CD-F41F7BBB1DF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritanceError", "MultipleInheritanceError\MultipleInheritanceError.csproj", "{F1992C41-7BAF-4FA5-B5CC-F548B186FBFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A30A5A8F-CD04-4E7A-85CD-F41F7BBB1DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30A5A8F-CD04-4E7A-85CD-F41F7BBB1DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30A5A8F-CD04-4E7A-85CD-F41F7BBB1DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1992C41-7BAF-4FA5-B5CC-F548B186FBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1992C41-7BAF-4FA5-B5CC-F548B186FBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1992C41-7BAF-4FA5-B5CC-F548B186FBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1992C41-7BAF-4FA5-B5CC-F548B186FBFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
