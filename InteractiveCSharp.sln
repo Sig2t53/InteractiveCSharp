@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorCallSequenceTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseOfbaseKeywordEx1", "UseOfbaseKeywordEx1\UseOfbaseKeywordEx1.csproj", "{0EA88DDB-40F0-492E-A50B-FFFB009C3815}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldInitializationOrderEx1", "FieldInitializationOrderEx1\FieldInitializationOrderEx1.csproj", "{E64F8FDB-9A4C-47CA-BDF0-44D3C55E794C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0EA88DDB-40F0-492E-A50B-FFFB009C3815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EA88DDB-40F0-492E-A50B-FFFB009C3815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EA88DDB-40F0-492E-A50B-FFFB009C3815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64F8FDB-9A4C-47CA-BDF0-44D3C55E794C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F8FDB-9A4C-47CA-BDF0-44D3C55E794C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F8FDB-9A4C-47CA-BDF0-44D3C55E794C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F8FDB-9A4C-47CA-BDF0-44D3C55E794C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
