@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorOverloadingEx1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingMainEx", "OverloadingMainEx\OverloadingMainEx.csproj", "{390C9C15-04CE-4EA3-9E74-99373FBAA36C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMainTest", "MultipleMainTest\MultipleMainTest.csproj", "{3B418D9B-83F0-4E84-9A2C-B92B94E01A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{390C9C15-04CE-4EA3-9E74-99373FBAA36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{390C9C15-04CE-4EA3-9E74-99373FBAA36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{390C9C15-04CE-4EA3-9E74-99373FBAA36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B418D9B-83F0-4E84-9A2C-B92B94E01A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B418D9B-83F0-4E84-9A2C-B92B94E01A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B418D9B-83F0-4E84-9A2C-B92B94E01A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B418D9B-83F0-4E84-9A2C-B92B94E01A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
