@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingEx2", "Overriding
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRefToChildObjectEx1", "BaseRefToChildObjectEx1\BaseRefToChildObjectEx1.csproj", "{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PloymorphismEx1", "PloymorphismEx1\PloymorphismEx1.csproj", "{343BBD22-AF5E-491F-A854-D968DEF9287A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343BBD22-AF5E-491F-A854-D968DEF9287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343BBD22-AF5E-491F-A854-D968DEF9287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343BBD22-AF5E-491F-A854-D968DEF9287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343BBD22-AF5E-491F-A854-D968DEF9287A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
