@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingEx1", "Overriding
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingEx2", "OverridingEx2\OverridingEx2.csproj", "{60DC87FE-73CA-439B-8598-ACAD6DED3B3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRefToChildObjectEx1", "BaseRefToChildObjectEx1\BaseRefToChildObjectEx1.csproj", "{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{60DC87FE-73CA-439B-8598-ACAD6DED3B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60DC87FE-73CA-439B-8598-ACAD6DED3B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60DC87FE-73CA-439B-8598-ACAD6DED3B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D53002-C78A-4EA8-BF2F-9B4E818E05AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
