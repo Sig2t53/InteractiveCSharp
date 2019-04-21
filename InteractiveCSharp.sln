@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismEx4", "Polymorp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismEx5", "PolymorphismEx5\PolymorphismEx5.csproj", "{281ECF89-0E62-44EA-A794-D79BCD81FD39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateConstructor", "PrivateConstructor\PrivateConstructor.csproj", "{0471CCC8-1813-41FF-B7A1-1A3F40E189F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{281ECF89-0E62-44EA-A794-D79BCD81FD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{281ECF89-0E62-44EA-A794-D79BCD81FD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{281ECF89-0E62-44EA-A794-D79BCD81FD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0471CCC8-1813-41FF-B7A1-1A3F40E189F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0471CCC8-1813-41FF-B7A1-1A3F40E189F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0471CCC8-1813-41FF-B7A1-1A3F40E189F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0471CCC8-1813-41FF-B7A1-1A3F40E189F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
