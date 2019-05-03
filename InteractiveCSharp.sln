@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizOnSealedEx1", "QuizOnSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassVsA_ClassWithPrivateCons", "SealedClassVsA_ClassWithPrivateCons\SealedClassVsA_ClassWithPrivateCons.csproj", "{159DDB0C-4E08-4C9B-BA1A-75BCFE65FB4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingWithMultipleClasses", "OverloadingWithMultipleClasses\OverloadingWithMultipleClasses.csproj", "{65FD1691-C18E-4E9A-BF3C-ADE2C79C2BFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{159DDB0C-4E08-4C9B-BA1A-75BCFE65FB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{159DDB0C-4E08-4C9B-BA1A-75BCFE65FB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{159DDB0C-4E08-4C9B-BA1A-75BCFE65FB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FD1691-C18E-4E9A-BF3C-ADE2C79C2BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FD1691-C18E-4E9A-BF3C-ADE2C79C2BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FD1691-C18E-4E9A-BF3C-ADE2C79C2BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FD1691-C18E-4E9A-BF3C-ADE2C79C2BFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
