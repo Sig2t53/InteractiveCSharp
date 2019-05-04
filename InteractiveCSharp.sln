@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithConstructorEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithAccessModifiersEx1", "ExperimentWithAccessModifiersEx1\ExperimentWithAccessModifiersEx1.csproj", "{BB841CC2-FE76-4C2A-96ED-9DB8E2F53694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx1", "InterfaceEx1\InterfaceEx1.csproj", "{E5E2DFDD-2168-4119-B341-0B52354026B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{BB841CC2-FE76-4C2A-96ED-9DB8E2F53694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB841CC2-FE76-4C2A-96ED-9DB8E2F53694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB841CC2-FE76-4C2A-96ED-9DB8E2F53694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E2DFDD-2168-4119-B341-0B52354026B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E2DFDD-2168-4119-B341-0B52354026B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E2DFDD-2168-4119-B341-0B52354026B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E2DFDD-2168-4119-B341-0B52354026B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
