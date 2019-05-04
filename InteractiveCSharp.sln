@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx5", "InterfaceEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx6", "InterfaceEx6\InterfaceEx6.csproj", "{B2335F3D-B507-45D9-99EA-CC37B8FE7DCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Interface", "Test_Interface\Test_Interface.csproj", "{F0C32144-4CC8-4F02-A416-6EF25C00C5DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{B2335F3D-B507-45D9-99EA-CC37B8FE7DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2335F3D-B507-45D9-99EA-CC37B8FE7DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2335F3D-B507-45D9-99EA-CC37B8FE7DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C32144-4CC8-4F02-A416-6EF25C00C5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C32144-4CC8-4F02-A416-6EF25C00C5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C32144-4CC8-4F02-A416-6EF25C00C5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C32144-4CC8-4F02-A416-6EF25C00C5DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
