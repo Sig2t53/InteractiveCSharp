@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace OverloadingWithMultipleClasses
 {
+    // C#のメソッドは既定ではvirtualになっていない(Javaはvirtualが既定)
+    // C#では親クラスでvirtualを指定したメソッドに、子クラスでoverrideを指定して
+    // 意図的に再定義を発生させる
     class Parent
     {
         public void ShowMe()
