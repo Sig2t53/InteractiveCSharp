@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesEx1", "Properties
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test4_Property", "Test4_Property\Test4_Property.csproj", "{3C595941-3DA3-40E6-8195-11A5206A91F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPropertyEx1", "VirtualPropertyEx1\VirtualPropertyEx1.csproj", "{C104D86A-02D3-4253-BBE5-8C375179F69D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{3C595941-3DA3-40E6-8195-11A5206A91F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C595941-3DA3-40E6-8195-11A5206A91F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C595941-3DA3-40E6-8195-11A5206A91F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C104D86A-02D3-4253-BBE5-8C375179F69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C104D86A-02D3-4253-BBE5-8C375179F69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C104D86A-02D3-4253-BBE5-8C375179F69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C104D86A-02D3-4253-BBE5-8C375179F69D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
