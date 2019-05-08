@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPropertyEx1", "Virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizOnPrivateSetProperty", "QuizOnPrivateSetProperty\QuizOnPrivateSetProperty.csproj", "{62BFBBC2-FACE-45F6-BD76-15BE1BB98C99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizOnPrivateSet", "QuizOnPrivateSet\QuizOnPrivateSet.csproj", "{5913B0ED-6C58-415A-A130-84D4E1E1415E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{62BFBBC2-FACE-45F6-BD76-15BE1BB98C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62BFBBC2-FACE-45F6-BD76-15BE1BB98C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62BFBBC2-FACE-45F6-BD76-15BE1BB98C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5913B0ED-6C58-415A-A130-84D4E1E1415E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5913B0ED-6C58-415A-A130-84D4E1E1415E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5913B0ED-6C58-415A-A130-84D4E1E1415E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5913B0ED-6C58-415A-A130-84D4E1E1415E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
