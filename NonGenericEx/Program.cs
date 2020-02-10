@@ -25,6 +25,7 @@ namespace NonGenericEx
             NonGenericEx nonGenericOb = new NonGenericEx();
             Console.WriteLine("ShowIntegerの戻り値は{0}",nonGenericOb.ShowInteger(25));
             Console.WriteLine("ShowStringの戻り値は{0}",nonGenericOb.ShowString("ジェネリックではないメソッドが呼ばれました"));
+            Console.WriteLine("ShowDoubleの戻り値は{0}", nonGenericOb.ShowDoble(100.5)); //エラー
             Console.ReadKey();
         }
     }
