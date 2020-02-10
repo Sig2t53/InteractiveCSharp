@@ -16,6 +16,10 @@ namespace NonGenericEx
         {
             return s1;
         }
+        public double ShowDouble(double d)
+        {
+            return d;
+        }
     }
     class Program
     {
@@ -25,7 +29,7 @@ namespace NonGenericEx
             NonGenericEx nonGenericOb = new NonGenericEx();
             Console.WriteLine("ShowIntegerの戻り値は{0}",nonGenericOb.ShowInteger(25));
             Console.WriteLine("ShowStringの戻り値は{0}",nonGenericOb.ShowString("ジェネリックではないメソッドが呼ばれました"));
-            Console.WriteLine("ShowDoubleの戻り値は{0}", nonGenericOb.ShowDoble(100.5)); //エラー
+            Console.WriteLine("ShowDoubleの戻り値は{0}", nonGenericOb.ShowDouble(100.5)); 
             Console.ReadKey();
         }
     }
