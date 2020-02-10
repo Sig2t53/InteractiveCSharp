@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethodsEx2", "StaticM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonGenericEx", "NonGenericEx\NonGenericEx.csproj", "{28562D6B-9A5E-464A-89D8-1EEC9B625FED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericProgrammingEx1", "GenericProgrammingEx1\GenericProgrammingEx1.csproj", "{BC65F5FF-25E7-4BB6-8B53-F7321174FCC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{28562D6B-9A5E-464A-89D8-1EEC9B625FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28562D6B-9A5E-464A-89D8-1EEC9B625FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28562D6B-9A5E-464A-89D8-1EEC9B625FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC65F5FF-25E7-4BB6-8B53-F7321174FCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC65F5FF-25E7-4BB6-8B53-F7321174FCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC65F5FF-25E7-4BB6-8B53-F7321174FCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC65F5FF-25E7-4BB6-8B53-F7321174FCC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
