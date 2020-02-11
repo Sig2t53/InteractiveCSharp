@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericEx4", "GenericEx4\Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseStudyWithDefault", "CaseStudyWithDefault\CaseStudyWithDefault.csproj", "{D95DEC74-C235-47E5-A2D7-754875830A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "Assignment\Assignment.csproj", "{FAED4614-4D78-42D5-8410-3BBFBC9FD119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{D95DEC74-C235-47E5-A2D7-754875830A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95DEC74-C235-47E5-A2D7-754875830A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95DEC74-C235-47E5-A2D7-754875830A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAED4614-4D78-42D5-8410-3BBFBC9FD119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED4614-4D78-42D5-8410-3BBFBC9FD119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED4614-4D78-42D5-8410-3BBFBC9FD119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED4614-4D78-42D5-8410-3BBFBC9FD119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
